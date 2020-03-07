@@ -1,6 +1,4 @@
-CSE 5334 Data Mining
-Name: Shagun Paul
-UTA ID: 1001557958
+Instructions
 
 (1) You will have to use 3.X version or higher to run the program.
 (2) Unzip the folder in your IDE and run tasks A, B, C, D, E
